@@ -1,0 +1,14 @@
+.main {
+  background-image: url("/Images/main.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  color: white;
+}
+.main2 {
+  background-image: url("/Images/main2.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  filter: op;
+}

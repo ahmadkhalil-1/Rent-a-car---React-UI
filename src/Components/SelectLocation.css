@@ -1,0 +1,7 @@
+.form-select {
+  border: none;
+  font-size: small;
+}
+.line {
+  border-left: 1px solid rgb(192, 183, 183);
+}
