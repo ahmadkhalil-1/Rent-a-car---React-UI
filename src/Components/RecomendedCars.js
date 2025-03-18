@@ -3,7 +3,7 @@ import { useMediaQuery } from "react-responsive";
 
 const RecommendedCars = (props) => {
   const isEven = props.id % 2 === 0;
-  const isFirst = props.id == 1 || props.id == 5;
+  const isFirst = props.id === 1 || props.id === 5;
 
   const isMobile = useMediaQuery({ query: "(max-width: 767px)" });
 
